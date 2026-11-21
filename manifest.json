@@ -1,0 +1,17 @@
+{
+  "name": "Fair or Not Fair?",
+  "short_name": "Fair or Not",
+  "description": "A fun game for kids about fairness. Decide: FAIR or NOT FAIR? Earn 5 points for every right answer.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffe6f0",
+  "theme_color": "#ff5c9a",
+  "categories": ["education", "games", "kids"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
